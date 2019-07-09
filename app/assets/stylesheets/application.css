@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+@import url("https://use.fontawesome.com/releases/v5.0.10/css/all.css");
+
+.title {
+  color: #32f0cd;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.newTask, .taskList, .taskDelete {
+  color: #6798e6;
+}
